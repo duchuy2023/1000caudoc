@@ -2,7 +2,7 @@
   {
     "id": 1,
     "type": 0,
-    "photo": "1000doc1/a1",
+    "photo": "1000doc1/a1.jpg",
     "audio": null,
     "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
     "options": [
@@ -16,7 +16,7 @@
   {
     "id": 2,
     "type": 0,
-    "photo": "1000doc1/a2",
+    "photo": "1000doc1/a2.jpg",
     "audio": null,
     "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
     "options": [
@@ -30,7 +30,7 @@
   {
     "id": 3,
     "type": 0,
-    "photo": "1000doc1/a3",
+    "photo": "1000doc1/a3.jpg",
     "audio": null,
     "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
     "options": [
@@ -44,7 +44,7 @@
   {
     "id": 4,
     "type": 0,
-    "photo": "1000doc1/a4",
+    "photo": "1000doc1/a4.jpg",
     "audio": null,
     "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
     "options": [
@@ -58,7 +58,7 @@
   {
     "id": 5,
     "type": 0,
-    "photo": "1000doc1/a5",
+    "photo": "1000doc1/a5.jpg",
     "audio": null,
     "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
     "options": [
@@ -72,7 +72,7 @@
   {
     "id": 6,
     "type": 0,
-    "photo": "1000doc1/a6",
+    "photo": "1000doc1/a6.jpg",
     "audio": null,
     "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
     "options": [
@@ -86,7 +86,7 @@
   {
     "id": 7,
     "type": 0,
-    "photo": "1000doc1/a7",
+    "photo": "1000doc1/a7.jpg",
     "audio": null,
     "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
     "options": [
@@ -100,7 +100,7 @@
   {
     "id": 8,
     "type": 0,
-    "photo": "1000doc1/a8",
+    "photo": "1000doc1/a8.jpg",
     "audio": null,
     "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
     "options": [
@@ -114,7 +114,7 @@
   {
     "id": 9,
     "type": 0,
-    "photo": "1000doc1/a9",
+    "photo": "1000doc1/a9.jpg",
     "audio": null,
     "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
     "options": [
@@ -128,7 +128,7 @@
   {
     "id": 10,
     "type": 0,
-    "photo": "1000doc1/a10",
+    "photo": "1000doc1/a10.jpg",
     "audio": null,
     "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
     "options": [
@@ -142,7 +142,7 @@
   {
     "id": 11,
     "type": 0,
-    "photo": "1000doc1/a11",
+    "photo": "1000doc1/a11.jpg.jpg",
     "audio": null,
     "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
     "options": [
@@ -156,7 +156,7 @@
   {
     "id": 12,
     "type": 0,
-    "photo": "1000doc1/a12",
+    "photo": "1000doc1/a12.jpg.jpg",
     "audio": null,
     "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
     "options": [
@@ -170,7 +170,7 @@
   {
     "id": 13,
     "type": 0,
-    "photo": "1000doc1/a13",
+    "photo": "1000doc1/a13.jpg.jpg",
     "audio": null,
     "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
     "options": [
@@ -184,7 +184,7 @@
   {
     "id": 14,
     "type": 0,
-    "photo": "1000doc1/a14",
+    "photo": "1000doc1/a14.jpg",
     "audio": null,
     "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
     "options": [
@@ -198,7 +198,7 @@
   {
     "id": 15,
     "type": 0,
-    "photo": "1000doc1/a15",
+    "photo": "1000doc1/a15.jpg",
     "audio": null,
     "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
     "options": [
@@ -212,7 +212,7 @@
   {
     "id": 16,
     "type": 0,
-    "photo": "1000doc1/a16",
+    "photo": "1000doc1/a16.jpg",
     "audio": null,
     "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
     "options": [
@@ -226,7 +226,7 @@
   {
     "id": 17,
     "type": 0,
-    "photo": "1000doc1/a17",
+    "photo": "1000doc1/a17.jpg",
     "audio": null,
     "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
     "options": [
@@ -240,7 +240,7 @@
   {
     "id": 18,
     "type": 0,
-    "photo": "1000doc1/a18",
+    "photo": "1000doc1/a18.jpg",
     "audio": null,
     "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
     "options": [
@@ -254,7 +254,7 @@
   {
     "id": 19,
     "type": 0,
-    "photo": "1000doc1/a19",
+    "photo": "1000doc1/a19.jpg",
     "audio": null,
     "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
     "options": [
@@ -268,7 +268,7 @@
   {
     "id": 20,
     "type": 0,
-    "photo": "1000doc1/a20",
+    "photo": "1000doc1/a20.jpg",
     "audio": null,
     "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
     "options": [

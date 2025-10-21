@@ -1,0 +1,282 @@
+[
+  {
+    "id": 21,
+    "type": 0,
+    "photo": "1000doc1/a21.jpg",
+    "audio": null,
+    "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
+    "options": [
+      { "text": "칼", "translate": "Dao" },
+      { "text": "연필", "translate": "Bút chì" },
+      { "text": "줄자", "translate": "Thước dây" },
+      { "text": "지우개", "translate": "Cục tẩy" }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 22,
+    "type": 0,
+    "photo": "1000doc1/a22.jpg",
+    "audio": null,
+    "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
+    "options": [
+      { "text": "명함", "translate": "Danh thiếp" },
+      { "text": "지폐", "translate": "Tiền giấy" },
+      { "text": "영화표", "translate": "Vé xem phim" },
+      { "text": "영수증", "translate": "Hóa đơn" }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 23,
+    "type": 0,
+    "photo": "1000doc1/a23.jpg",
+    "audio": null,
+    "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
+    "options": [
+      { "text": "옷장", "translate": "Tủ quần áo" },
+      { "text": "책장", "translate": "Giá sách" },
+      { "text": "침대", "translate": "Giường" },
+      { "text": "책상", "translate": "Bàn học" }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 24,
+    "type": 0,
+    "photo": "1000doc1/a24.jpg",
+    "audio": null,
+    "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
+    "options": [
+      { "text": "우표", "translate": "Tem thư" },
+      { "text": "수표", "translate": "Séc" },
+      { "text": "영수증", "translate": "Hóa đơn" },
+      { "text": "기차표", "translate": "Vé tàu hỏa" }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 25,
+    "type": 0,
+    "photo": "1000doc1/a25.jpg",
+    "audio": null,
+    "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
+    "options": [
+      { "text": "양말", "translate": "Vớ (tất)" },
+      { "text": "모자", "translate": "Mũ" },
+      { "text": "바지", "translate": "Quần" },
+      { "text": "운동화", "translate": "Giày thể thao" }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 26,
+    "type": 0,
+    "photo": "1000doc1/a26.jpg",
+    "audio": null,
+    "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
+    "options": [
+      { "text": "책상", "translate": "Bàn học" },
+      { "text": "의자", "translate": "Ghế" },
+      { "text": "옷장", "translate": "Tủ quần áo" },
+      { "text": "침대", "translate": "Giường" }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 27,
+    "type": 0,
+    "photo": "1000doc1/a27.jpg",
+    "audio": null,
+    "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
+    "options": [
+      { "text": "자전거", "translate": "Xe đạp" },
+      { "text": "자동차", "translate": "Ô tô" },
+      { "text": "사진기", "translate": "Máy ảnh" },
+      { "text": "컴퓨터", "translate": "Máy tính" }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 28,
+    "type": 0,
+    "photo": "1000doc1/a28.jpg",
+    "audio": null,
+    "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
+    "options": [
+      { "text": "비행기", "translate": "Máy bay" },
+      { "text": "자동차", "translate": "Ô tô" },
+      { "text": "자전거", "translate": "Xe đạp" },
+      { "text": "지하철", "translate": "Tàu điện ngầm" }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 29,
+    "type": 0,
+    "photo": "1000doc1/a29.jpg",
+    "audio": null,
+    "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
+    "options": [
+      { "text": "가방", "translate": "Cặp, túi xách" },
+      { "text": "지갑", "translate": "Ví tiền" },
+      { "text": "여권", "translate": "Hộ chiếu" },
+      { "text": "수첩", "translate": "Sổ tay" }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 30,
+    "type": 0,
+    "photo": "1000doc1/a30.jpg",
+    "audio": null,
+    "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
+    "options": [
+      { "text": "택시", "translate": "Taxi" },
+      { "text": "비행기", "translate": "Máy bay" },
+      { "text": "지하철", "translate": "Tàu điện ngầm" },
+      { "text": "고속버스", "translate": "Xe buýt cao tốc" }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 31,
+    "type": 0,
+    "photo": "1000doc1/a31.jpg",
+    "audio": null,
+    "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
+    "options": [
+      { "text": "돈", "translate": "Tiền" },
+      { "text": "옷", "translate": "Quần áo" },
+      { "text": "꽃", "translate": "Hoa" },
+      { "text": "책", "translate": "Sách" }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 32,
+    "type": 0,
+    "photo": "1000doc1/a32.jpg",
+    "audio": null,
+    "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
+    "options": [
+      { "text": "옷장", "translate": "Tủ quần áo" },
+      { "text": "침대", "translate": "Giường" },
+      { "text": "책상", "translate": "Bàn học" },
+      { "text": "의자", "translate": "Ghế" }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 33,
+    "type": 0,
+    "photo": "1000doc1/a33",
+    "audio": null,
+    "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
+    "options": [
+      { "text": "청소기", "translate": "Máy hút bụi" },
+      { "text": "세탁기", "translate": "Máy giặt" },
+      { "text": "냉장고", "translate": "Tủ lạnh" },
+      { "text": "선풍기", "translate": "Quạt máy" }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 34,
+    "type": 0,
+    "photo": "1000doc1/a34.jpg",
+    "audio": null,
+    "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
+    "options": [
+      { "text": "치마", "translate": "Váy" },
+      { "text": "바지", "translate": "Quần" },
+      { "text": "셔츠", "translate": "Áo sơ mi" },
+      { "text": "모자", "translate": "Mũ" }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 35,
+    "type": 0,
+    "photo": "1000doc1/a35.jpg",
+    "audio": null,
+    "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
+    "options": [
+      { "text": "침대", "translate": "Giường" },
+      { "text": "책상", "translate": "Bàn học" },
+      { "text": "책장", "translate": "Giá sách" },
+      { "text": "의자", "translate": "Ghế" }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 36,
+    "type": 0,
+    "photo": "1000doc1/a36.jpg",
+    "audio": null,
+    "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
+    "options": [
+      { "text": "컴퓨터", "translate": "Máy tính" },
+      { "text": "라디오", "translate": "Radio" },
+      { "text": "카메라", "translate": "Máy ảnh" },
+      { "text": "텔레비전", "translate": "Tivi" }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 37,
+    "type": 0,
+    "photo": "1000doc1/a37.jpg",
+    "audio": null,
+    "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
+    "options": [
+      { "text": "컴퓨터", "translate": "Máy tính" },
+      { "text": "냉장고", "translate": "Tủ lạnh" },
+      { "text": "카메라", "translate": "Máy ảnh" },
+      { "text": "휴대전화", "translate": "Điện thoại di động" }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 38,
+    "type": 0,
+    "photo": "1000doc1/a38.jpg",
+    "audio": null,
+    "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
+    "options": [
+      { "text": "택시", "translate": "Taxi" },
+      { "text": "기차", "translate": "Tàu hỏa" },
+      { "text": "버스", "translate": "Xe buýt" },
+      { "text": "자전거", "translate": "Xe đạp" }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 39,
+    "type": 0,
+    "photo": "1000doc1/a39.jpg",
+    "audio": null,
+    "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
+    "options": [
+      { "text": "라디오", "translate": "Radio" },
+      { "text": "카메라", "translate": "Máy ảnh" },
+      { "text": "냉장고", "translate": "Tủ lạnh" },
+      { "text": "텔레비전", "translate": "Tivi" }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 40,
+    "type": 0,
+    "photo": "1000doc1/a40.jpg",
+    "audio": null,
+    "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
+    "options": [
+      { "text": "계산기", "translate": "Máy tính cầm tay" },
+      { "text": "텔레비전", "translate": "Tivi" },
+      { "text": "휴대전화", "translate": "Điện thoại di động" },
+      { "text": "노트북 컴퓨터", "translate": "Máy tính xách tay" }
+    ],
+    "answer": 3
+  }
+]

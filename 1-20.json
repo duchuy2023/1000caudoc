@@ -142,7 +142,7 @@
   {
     "id": 11,
     "type": 0,
-    "photo": "1000doc1/a11.jpg.jpg",
+    "photo": "1000doc1/a11.jpg",
     "audio": null,
     "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
     "options": [
@@ -156,7 +156,7 @@
   {
     "id": 12,
     "type": 0,
-    "photo": "1000doc1/a12.jpg.jpg",
+    "photo": "1000doc1/a12.jpg",
     "audio": null,
     "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
     "options": [
@@ -170,7 +170,7 @@
   {
     "id": 13,
     "type": 0,
-    "photo": "1000doc1/a13.jpg.jpg",
+    "photo": "1000doc1/a13.jpg",
     "audio": null,
     "question": { "text": "그림을 보고 알맞은 말을 고르십시오.", "translate": "Nhìn hình và chọn từ đúng." },
     "options": [

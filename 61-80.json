@@ -1,0 +1,342 @@
+[
+  {
+    "id": 61,
+    "type": 0,
+    "photo": "1000doc1/a61.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "작업대입니다.", "translate": "Là bàn làm việc." },
+      { "text": "조상기입니다.", "translate": "Là máy tổ tiên (?)" },
+      { "text": "콘센트입니다.", "translate": "Là ổ cắm điện." },
+      { "text": "주머니입니다.", "translate": "Là cái túi." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 62,
+    "type": 0,
+    "photo": "1000doc1/a62.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "철판입니다.", "translate": "Là tấm sắt." },
+      { "text": "목초입니다.", "translate": "Là cỏ khô." },
+      { "text": "전선입니다.", "translate": "Là dây điện." },
+      { "text": "얼음입니다.", "translate": "Là nước đá." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 63,
+    "type": 0,
+    "photo": "1000doc1/a63.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "분전반입니다.", "translate": "Là tủ điện." },
+      { "text": "위생복입니다.", "translate": "Là quần áo bảo hộ." },
+      { "text": "쌀자루입니다.", "translate": "Là bao gạo." },
+      { "text": "포장지입니다.", "translate": "Là giấy gói." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 64,
+    "type": 0,
+    "photo": "1000doc1/a64.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "도마입니다.", "translate": "Là cái thớt." },
+      { "text": "바가지입니다.", "translate": "Là cái gáo." },
+      { "text": "주전자입니다.", "translate": "Là ấm đun nước." },
+      { "text": "물뿌리개입니다.", "translate": "Là bình tưới nước." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 65,
+    "type": 0,
+    "photo": "1000doc1/a65.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "화물차입니다.", "translate": "Là xe chở hàng." },
+      { "text": "지게차입니다.", "translate": "Là xe nâng." },
+      { "text": "승합차입니다.", "translate": "Là xe khách." },
+      { "text": "구급차입니다.", "translate": "Là xe cứu thương." }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 66,
+    "type": 0,
+    "photo": "1000doc1/a66.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "기차입니다.", "translate": "Là tàu hỏa." },
+      { "text": "비행기입니다.", "translate": "Là máy bay." },
+      { "text": "굴삭기입니다.", "translate": "Là máy xúc." },
+      { "text": "사다리차입니다.", "translate": "Là xe thang nâng." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 67,
+    "type": 0,
+    "photo": "1000doc1/a67.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "집게입니다.", "translate": "Là cái kẹp." },
+      { "text": "스패너입니다.", "translate": "Là cờ lê." },
+      { "text": "마스크입니다.", "translate": "Là khẩu trang." },
+      { "text": "고무장갑입니다.", "translate": "Là găng tay cao su." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 68,
+    "type": 0,
+    "photo": "1000doc1/a68.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "봉지입니다.", "translate": "Là túi nilon." },
+      { "text": "전표입니다.", "translate": "Là hóa đơn." },
+      { "text": "페인트입니다.", "translate": "Là sơn." },
+      { "text": "드라이버입니다.", "translate": "Là tua vít." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 69,
+    "type": 0,
+    "photo": "1000doc1/a69.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "주유소입니다.", "translate": "Là trạm xăng." },
+      { "text": "기숙사입니다.", "translate": "Là ký túc xá." },
+      { "text": "작업실입니다.", "translate": "Là xưởng làm việc." },
+      { "text": "양식장입니다.", "translate": "Là trang trại nuôi trồng thủy sản." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 70,
+    "type": 0,
+    "photo": "1000doc1/a70.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "돈사입니다.", "translate": "Là chuồng nuôi lợn." },
+      { "text": "창고입니다.", "translate": "Là kho chứa." },
+      { "text": "휴게실입니다.", "translate": "Là phòng nghỉ." },
+      { "text": "공사장입니다.", "translate": "Là công trường xây dựng." }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 71,
+    "type": 0,
+    "photo": "1000doc1/a71.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "나사못입니다.", "translate": "Là đinh vít." },
+      { "text": "곡괭이입니다.", "translate": "Là cuốc chim." },
+      { "text": "장도리입니다.", "translate": "Là búa nhổ đinh." },
+      { "text": "빗자루입니다.", "translate": "Là cái chổi." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 72,
+    "type": 0,
+    "photo": "1000doc1/a72.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "대패입니다.", "translate": "Là cái bào gỗ." },
+      { "text": "사포입니다.", "translate": "Là giấy nhám." },
+      { "text": "쇠톱입니다.", "translate": "Là cưa sắt." },
+      { "text": "가위입니다.", "translate": "Là cái kéo." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 73,
+    "type": 0,
+    "photo": "1000doc1/a73.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "바가지입니다.", "translate": "Là cái gáo." },
+      { "text": "빗자루입니다.", "translate": "Là cái chổi." },
+      { "text": "소화기입니다.", "translate": "Là bình chữa cháy." },
+      { "text": "쇠스랑입니다.", "translate": "Là cái chĩa ba." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 74,
+    "type": 0,
+    "photo": "1000doc1/a74.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "컨테이너입니다.", "translate": "Là container." },
+      { "text": "전자저울입니다.", "translate": "Là cân điện tử." },
+      { "text": "전기 드릴입니다.", "translate": "Là máy khoan điện." },
+      { "text": "배합 사료입니다.", "translate": "Là thức ăn hỗn hợp." }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 75,
+    "type": 0,
+    "photo": "1000doc1/a75.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "전기톱입니다.", "translate": "Là cưa điện." },
+      { "text": "차광막입니다.", "translate": "Là tấm che nắng." },
+      { "text": "자전거입니다.", "translate": "Là xe đạp." },
+      { "text": "개폐기입니다.", "translate": "Là công tắc điện." }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 76,
+    "type": 0,
+    "photo": "1000doc1/a76.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "손수레입니다.", "translate": "Là xe đẩy tay." },
+      { "text": "배수구입니다.", "translate": "Là cống thoát nước." },
+      { "text": "용접봉입니다.", "translate": "Là que hàn." },
+      { "text": "보호구입니다.", "translate": "Là đồ bảo hộ." }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 77,
+    "type": 0,
+    "photo": "1000doc1/a77.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "수레입니다.", "translate": "Là xe kéo." },
+      { "text": "전선입니다.", "translate": "Là dây điện." },
+      { "text": "비계입니다.", "translate": "Là giàn giáo." },
+      { "text": "난로입니다.", "translate": "Là lò sưởi." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 78,
+    "type": 0,
+    "photo": "1000doc1/a78.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "경운기입니다.", "translate": "Là máy cày." },
+      { "text": "세척기입니다.", "translate": "Là máy rửa." },
+      { "text": "유압기입니다.", "translate": "Là máy thủy lực." },
+      { "text": "분무기입니다.", "translate": "Là bình phun." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 79,
+    "type": 0,
+    "photo": "1000doc1/a79.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "불도저입니다.", "translate": "Là xe ủi." },
+      { "text": "이앙기입니다.", "translate": "Là máy cấy." },
+      { "text": "지하철입니다.", "translate": "Là tàu điện ngầm." },
+      { "text": "냉동차입니다.", "translate": "Là xe đông lạnh." }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 80,
+    "type": 0,
+    "photo": "1000doc1/a80.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "기중기입니다.", "translate": "Là cần cẩu." },
+      { "text": "화물선입니다.", "translate": "Là tàu chở hàng." },
+      { "text": "컨베이어입니다.", "translate": "Là băng chuyền." },
+      { "text": "포클레인입니다.", "translate": "Là máy xúc lật." }
+    ],
+    "answer": 4
+  }
+]

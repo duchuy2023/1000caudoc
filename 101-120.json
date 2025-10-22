@@ -1,0 +1,342 @@
+[
+  {
+    "id": 101,
+    "type": 0,
+    "photo": "1000doc1/a101.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "꽃이 여섯 송이 있습니다.", "translate": "Có sáu bông hoa." },
+      { "text": "꽃이 일곱 송이 있습니다.", "translate": "Có bảy bông hoa." },
+      { "text": "꽃이 여덟 송이 있습니다.", "translate": "Có tám bông hoa." },
+      { "text": "꽃이 아홉 송이 있습니다.", "translate": "Có chín bông hoa." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 102,
+    "type": 0,
+    "photo": "1000doc1/a102.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "강아지가 한 마리 있습니다.", "translate": "Có một con chó con." },
+      { "text": "강아지가 두 마리 있습니다.", "translate": "Có hai con chó con." },
+      { "text": "강아지가 세 마리 있습니다.", "translate": "Có ba con chó con." },
+      { "text": "강아지가 네 마리 있습니다.", "translate": "Có bốn con chó con." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 103,
+    "type": 0,
+    "photo": "1000doc1/a103.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "동전이 여섯 개 있습니다.", "translate": "Có sáu đồng xu." },
+      { "text": "동전이 일곱 개 있습니다.", "translate": "Có bảy đồng xu." },
+      { "text": "동전이 여덟 개 있습니다.", "translate": "Có tám đồng xu." },
+      { "text": "동전이 아홉 개 있습니다.", "translate": "Có chín đồng xu." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 104,
+    "type": 0,
+    "photo": "1000doc1/a104.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "그릇이 열 개 있습니다.", "translate": "Có mười cái bát." },
+      { "text": "그릇이 여섯 개 있습니다.", "translate": "Có sáu cái bát." },
+      { "text": "그릇이 여덟 개 있습니다.", "translate": "Có tám cái bát." },
+      { "text": "그릇이 열두 개 있습니다.", "translate": "Có mười hai cái bát." }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 105,
+    "type": 0,
+    "photo": "1000doc1/a105.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "만 원짜리 지폐가 한 장 있습니다.", "translate": "Có một tờ tiền mệnh giá 10.000 won." },
+      { "text": "만 원짜리 지폐가 두 장 있습니다.", "translate": "Có hai tờ tiền mệnh giá 10.000 won." },
+      { "text": "만 원짜리 지폐가 세 장 있습니다.", "translate": "Có ba tờ tiền mệnh giá 10.000 won." },
+      { "text": "만 원짜리 지폐가 네 장 있습니다.", "translate": "Có bốn tờ tiền mệnh giá 10.000 won." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 106,
+    "type": 0,
+    "photo": "1000doc1/a106.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "줄자가 한 개 있습니다.", "translate": "Có một thước dây." },
+      { "text": "줄자가 두 개 있습니다.", "translate": "Có hai thước dây." },
+      { "text": "줄자가 세 개 있습니다.", "translate": "Có ba thước dây." },
+      { "text": "줄자가 네 개 있습니다.", "translate": "Có bốn thước dây." }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 107,
+    "type": 0,
+    "photo": "1000doc1/a107.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "전자저울이 한 대 있습니다.", "translate": "Có một cân điện tử." },
+      { "text": "전자저울이 두 대 있습니다.", "translate": "Có hai cân điện tử." },
+      { "text": "전자저울이 세 대 있습니다.", "translate": "Có ba cân điện tử." },
+      { "text": "전자저울이 네 대 있습니다.", "translate": "Có bốn cân điện tử." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 108,
+    "type": 0,
+    "photo": "1000doc1/a108.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "비닐하우스가 한 동 있습니다.", "translate": "Có một nhà kính." },
+      { "text": "비닐하우스가 두 동 있습니다.", "translate": "Có hai nhà kính." },
+      { "text": "비닐하우스가 세 동 있습니다.", "translate": "Có ba nhà kính." },
+      { "text": "비닐하우스가 네 동 있습니다.", "translate": "Có bốn nhà kính." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 109,
+    "type": 0,
+    "photo": "1000doc1/a109.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "사료가 두 포대 있습니다.", "translate": "Có hai bao thức ăn chăn nuôi." },
+      { "text": "사료가 세 포대 있습니다.", "translate": "Có ba bao thức ăn chăn nuôi." },
+      { "text": "사료가 네 포대 있습니다.", "translate": "Có bốn bao thức ăn chăn nuôi." },
+      { "text": "사료가 다섯 포대 있습니다.", "translate": "Có năm bao thức ăn chăn nuôi." }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 110,
+    "type": 0,
+    "photo": "1000doc1/a110.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "집이 한 채 있습니다.", "translate": "Có một ngôi nhà." },
+      { "text": "집이 한 명 있습니다.", "translate": "Có một người nhà (sai nghĩa)." },
+      { "text": "집이 한 잔 있습니다.", "translate": "Có một cốc nhà (sai nghĩa)." },
+      { "text": "집이 한 층 있습니다.", "translate": "Có một tầng nhà." }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 111,
+    "type": 0,
+    "photo": "1000doc1/a111.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "아파트가 두 동 있습니다.", "translate": "Có hai tòa chung cư." },
+      { "text": "아파트가 두 명 있습니다.", "translate": "Có hai người chung cư (sai nghĩa)." },
+      { "text": "아파트가 두 갑 있습니다.", "translate": "Có hai bao chung cư (sai nghĩa)." },
+      { "text": "아파트가 두 병 있습니다.", "translate": "Có hai chai chung cư (sai nghĩa)." }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 112,
+    "type": 0,
+    "photo": "1000doc1/a112.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "삼 주 동안 공부했습니다.", "translate": "Tôi đã học trong ba tuần." },
+      { "text": "삼 달 동안 공부했습니다.", "translate": "Tôi đã học trong ba tháng." },
+      { "text": "삼 년 동안 공부했습니다.", "translate": "Tôi đã học trong ba năm." },
+      { "text": "삼 개월 동안 공부했습니다.", "translate": "Tôi đã học trong ba tháng." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 113,
+    "type": 0,
+    "photo": "1000doc1/a113.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "밥 한 병과 계란이 있습니다.", "translate": "Có một chai cơm và trứng (sai nghĩa)." },
+      { "text": "밥 한 마리와 계란이 있습니다.", "translate": "Có một con cơm và trứng (sai nghĩa)." },
+      { "text": "밥 한 켤레와 계란이 있습니다.", "translate": "Có một đôi cơm và trứng (sai nghĩa)." },
+      { "text": "밥 한 공기와 계란이 있습니다.", "translate": "Có một bát cơm và trứng." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 114,
+    "type": 0,
+    "photo": "1000doc1/a114.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "커피가 한 병 있습니다.", "translate": "Có một chai cà phê." },
+      { "text": "커피가 한 장 있습니다.", "translate": "Có một tờ cà phê (sai nghĩa)." },
+      { "text": "커피가 한 잔 있습니다.", "translate": "Có một cốc cà phê." },
+      { "text": "커피가 한 명 있습니다.", "translate": "Có một người cà phê (sai nghĩa)." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 115,
+    "type": 0,
+    "photo": "1000doc1/a115.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "강아지가 한 켤레 있습니다.", "translate": "Có một đôi chó con (sai nghĩa)." },
+      { "text": "강아지가 한 마리 있습니다.", "translate": "Có một con chó con." },
+      { "text": "강아지가 한 그릇 있습니다.", "translate": "Có một bát chó con (sai nghĩa)." },
+      { "text": "강아지가 한 송이 있습니다.", "translate": "Có một bông chó con (sai nghĩa)." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 116,
+    "type": 0,
+    "photo": "1000doc1/a116.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "냉면이 한 그릇 있습니다.", "translate": "Có một bát mì lạnh." },
+      { "text": "냉면이 한 마리 있습니다.", "translate": "Có một con mì lạnh (sai nghĩa)." },
+      { "text": "냉면이 한 켤레 있습니다.", "translate": "Có một đôi mì lạnh (sai nghĩa)." },
+      { "text": "냉면이 한 송이 있습니다.", "translate": "Có một bông mì lạnh (sai nghĩa)." }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 117,
+    "type": 0,
+    "photo": "1000doc1/a117.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "구두가 두 장 있습니다.", "translate": "Có hai tờ giày (sai nghĩa)." },
+      { "text": "구두가 두 대 있습니다.", "translate": "Có hai chiếc giày (sai nghĩa)." },
+      { "text": "구두가 두 마리 있습니다.", "translate": "Có hai con giày (sai nghĩa)." },
+      { "text": "구두가 두 켤레 있습니다.", "translate": "Có hai đôi giày." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 118,
+    "type": 0,
+    "photo": "1000doc1/a118.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "기차표가 한 잔 있습니다.", "translate": "Có một cốc vé tàu (sai nghĩa)." },
+      { "text": "기차표가 한 장 있습니다.", "translate": "Có một tấm vé tàu." },
+      { "text": "기차표가 한 층 있습니다.", "translate": "Có một tầng vé tàu (sai nghĩa)." },
+      { "text": "기차표가 한 갑 있습니다.", "translate": "Có một bao vé tàu (sai nghĩa)." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 119,
+    "type": 0,
+    "photo": "1000doc1/a119.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "자동차가 네 분 있습니다.", "translate": "Có bốn người ô tô (sai nghĩa)." },
+      { "text": "자동차가 네 대 있습니다.", "translate": "Có bốn chiếc ô tô." },
+      { "text": "자동차가 네 벌 있습니다.", "translate": "Có bốn bộ ô tô (sai nghĩa)." },
+      { "text": "자동차가 네 잔 있습니다.", "translate": "Có bốn cốc ô tô (sai nghĩa)." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 120,
+    "type": 0,
+    "photo": "1000doc1/a120.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "기름이 세 통 있습니다.", "translate": "Có ba thùng dầu." },
+      { "text": "기름이 세 채 있습니다.", "translate": "Có ba ngôi dầu (sai nghĩa)." },
+      { "text": "기름이 세 그루 있습니다.", "translate": "Có ba cây dầu (sai nghĩa)." },
+      { "text": "기름이 세 포대 있습니다.", "translate": "Có ba bao dầu (sai nghĩa)." }
+    ],
+    "answer": 1
+  }
+]

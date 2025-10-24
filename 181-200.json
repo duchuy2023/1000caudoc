@@ -1,0 +1,342 @@
+[
+  {
+    "id": 181,
+    "type": 0,
+    "photo": "1000doc1/a181.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "물건을 운반하는 손수레입니다.", "translate": "Là xe đẩy tay dùng để chở hàng." },
+      { "text": "금속을 자를 수 있는 절단기입니다.", "translate": "Là máy cắt có thể cắt kim loại." },
+      { "text": "금속에 구멍을 뚫는 전기드릴입니다.", "translate": "Là máy khoan điện dùng để khoan lỗ trên kim loại." },
+      { "text": "땅을 파고 흙을 뜰 수 있는 삽입니다.", "translate": "Là xẻng dùng để đào đất và xúc đất." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 182,
+    "type": 0,
+    "photo": "1000doc1/a182.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "높은 곳에서 일할 때 몸을 안전하게 지켜 주는 안전대입니다.", "translate": "Là dây an toàn bảo vệ cơ thể khi làm việc ở chỗ cao." },
+      { "text": "독가스 등 유독 물질이 있는 곳에서 일할 때 쓰는 방독면입니다.", "translate": "Là mặt nạ phòng độc dùng khi làm việc ở nơi có khí độc." },
+      { "text": "뜨거운 열이나 불길로부터 몸을 보호하기 위해 입는 방열복입니다.", "translate": "Là áo chống nhiệt mặc để bảo vệ cơ thể khỏi lửa hoặc nhiệt cao." },
+      { "text": "추락 사고를 막고 지나다니는 사람의 안전을 위해 치는 안전망입니다.", "translate": "Là lưới an toàn để ngăn rơi và bảo vệ người đi lại." }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 183,
+    "type": 0,
+    "photo": "1000doc1/a183.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "삽을 이용하여 땅을 파고 있습니다.", "translate": "Đang đào đất bằng xẻng." },
+      { "text": "사다리를 이용하여 전선을 연결하고 있습니다.", "translate": "Đang dùng thang để nối dây điện." },
+      { "text": "지게차를 이용하여 물건을 운반하고 있습니다.", "translate": "Đang dùng xe nâng để vận chuyển hàng." },
+      { "text": "포크레인을 이용하여 파이프를 땅에 묻고 있습니다.", "translate": "Đang dùng máy xúc (cẩu) để lấp ống dưới đất." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 184,
+    "type": 0,
+    "photo": "1000doc1/a184.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "고층 건물의 유리창을 닦고 있습니다.", "translate": "Đang lau kính tòa nhà cao tầng." },
+      { "text": "땅을 파는 기초 공사를 하고 있습니다.", "translate": "Đang thi công móng đào đất." },
+      { "text": "건물의 인테리어 공사를 하고 있습니다.", "translate": "Đang thi công nội thất tòa nhà." },
+      { "text": "공장에서 자동차 부품을 만들고 있습니다.", "translate": "Đang sản xuất linh kiện ô tô trong nhà máy." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 185,
+    "type": 0,
+    "photo": "1000doc1/a185.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "땅을 팔 때 쓰는 삽입니다.", "translate": "Là xẻng dùng để đào đất." },
+      { "text": "바닥을 닦을 때 쓰는 걸레입니다.", "translate": "Là giẻ lau dùng để lau sàn." },
+      { "text": "물건을 집을 때 쓰는 집게입니다.", "translate": "Là kẹp/tăng dùng để gắp vật." },
+      { "text": "음식을 먹을 때 쓰는 숟가락입니다.", "translate": "Là thìa dùng để ăn." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 186,
+    "type": 0,
+    "photo": "1000doc1/a186.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "물을 뿌릴 때 사용하는 도구입니다.", "translate": "Là dụng cụ dùng để phun nước." },
+      { "text": "음식을 먹을 때 사용하는 도구입니다.", "translate": "Là dụng cụ dùng để ăn." },
+      { "text": "물건을 집을 때 사용하는 도구입니다.", "translate": "Là dụng cụ dùng để gắp đồ." },
+      { "text": "유리창을 닦을 때 사용하는 도구입니다.", "translate": "Là dụng cụ dùng để lau kính." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 187,
+    "type": 0,
+    "photo": "1000doc1/a187.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "땅을 팔 때 사용하는 도구입니다.", "translate": "Là dụng cụ dùng để đào đất." },
+      { "text": "물을 뿌릴 때 사용하는 도구입니다.", "translate": "Là dụng cụ dùng để phun nước." },
+      { "text": "물건을 집을 때 사용하는 도구입니다.", "translate": "Là dụng cụ dùng để gắp đồ." },
+      { "text": "음식을 먹을 때 사용하는 도구입니다.", "translate": "Là dụng cụ dùng để ăn." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 188,
+    "type": 0,
+    "photo": "1000doc1/a188.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "손을 씻을 때 사용하는 비누입니다.", "translate": "Là xà phòng dùng để rửa tay." },
+      { "text": "물건을 집을 때 사용하는 집게입니다.", "translate": "Là kẹp/tăng dùng để gắp đồ." },
+      { "text": "물을 뿌릴 때 사용하는 물뿌리개입니다.", "translate": "Là bình tưới nước." },
+      { "text": "그릇을 씻을 때 사용하는 수세미입니다.", "translate": "Là miếng rửa bát (bùi nhùi)." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 189,
+    "type": 0,
+    "photo": "1000doc1/a189.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "물건을 집을 때 사용하는 집게입니다.", "translate": "Là kẹp/tăng dùng để gắp đồ." },
+      { "text": "물을 뿌릴 때 사용하는 물뿌리개입니다.", "translate": "Là bình tưới nước." },
+      { "text": "입 안의 음식 찌꺼기를 없앨 수 있는 칫솔입니다.", "translate": "Là bàn chải đánh răng để làm sạch thức ăn trong miệng." },
+      { "text": "바닥을 문질러 때나 먼지를 없앨 수 있는 솔입니다.", "translate": "Là bàn chải để chà sàn, tẩy vết bẩn và bụi." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 190,
+    "type": 0,
+    "photo": "1000doc1/a190.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "이를 닦을 때 사용하는 칫솔입니다.", "translate": "Là bàn chải đánh răng." },
+      { "text": "물건을 집을 때 사용하는 집게입니다.", "translate": "Là kẹp/tăng dùng để gắp đồ." },
+      { "text": "바닥을 문질러 때를 뺄 수 있는 솔입니다.", "translate": "Là bàn chải dùng để chà sàn tẩy vết bẩn." },
+      { "text": "땅을 파고 흙을 뜨는 데 사용하는 삽입니다.", "translate": "Là xẻng dùng để đào và xúc đất." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 191,
+    "type": 0,
+    "photo": "1000doc1/a191.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "나무를 베거나 자를 때 사용하는 톱입니다.", "translate": "Là cưa dùng để đốn hoặc cắt gỗ." },
+      { "text": "전선이나 철사를 자를 때 사용하는 니퍼입니다.", "translate": "Là kìm cắt dùng để cắt dây điện hoặc dây thép." },
+      { "text": "나무에 못을 박거나 뺄 때 사용하는 장도리입니다.", "translate": "Là búa dùng để đóng hoặc nhổ đinh." },
+      { "text": "볼트, 너트, 나사 등의 머리를 죄거나 풀 때 사용하는 스패너입니다.", "translate": "Là cờ-lê dùng để siết hoặc mở đầu bulông, đai ốc, ốc vít." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 192,
+    "type": 0,
+    "photo": "1000doc1/a192.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "못을 박을 때 사용하는 망치입니다.", "translate": "Là cái búa dùng để đóng đinh." },
+      { "text": "물건을 운반할 때 사용하는 손수레입니다.", "translate": "Là xe đẩy tay dùng để chở hàng." },
+      { "text": "페인트칠을 할 때 사용하는 페인트 붓입니다.", "translate": "Là cọ sơn dùng để sơn." },
+      { "text": "높은 곳에 올라갈 때 사용하는 사다리입니다.", "translate": "Là thang dùng để leo lên chỗ cao." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 193,
+    "type": 0,
+    "photo": "1000doc1/a193.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "과일을 깎을 때 사용하는 칼입니다.", "translate": "Là dao dùng để gọt hoa quả." },
+      { "text": "음식을 담을 때 사용하는 그릇입니다.", "translate": "Là bát/dĩa dùng để盛 thức ăn." },
+      { "text": "물건을 운반할 때 사용하는 손수레입니다.", "translate": "Là xe đẩy tay dùng để chở hàng." },
+      { "text": "물건의 무게를 잴 때 사용하는 저울입니다.", "translate": "Là cân dùng để cân trọng lượng." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 194,
+    "type": 0,
+    "photo": "1000doc1/a194.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "물건을 묶을 수 있는 끈입니다.", "translate": "Là dây dùng để buộc đồ." },
+      { "text": "이를 닦을 수 있는 칫솔입니다.", "translate": "Là bàn chải đánh răng." },
+      { "text": "길이를 잴 수 있는 줄자입니다.", "translate": "Là thước dây dùng để đo độ dài." },
+      { "text": "허리를 조일 수 있는 벨트입니다.", "translate": "Là thắt lưng dùng để siết eo." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 195,
+    "type": 0,
+    "photo": "1000doc1/a195.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "땅을 팔 때 사용하는 삽입니다.", "translate": "Là xẻng dùng để đào đất." },
+      { "text": "옷을 걸 때 사용하는 옷걸이입니다.", "translate": "Là móc treo quần áo." },
+      { "text": "물건을 운반할 때 사용하는 손수레입니다.", "translate": "Là xe đẩy tay dùng để chở hàng." },
+      { "text": "높은 곳에 올라갈 때 사용하는 사다리입니다.", "translate": "Là thang dùng để leo lên độ cao." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 196,
+    "type": 0,
+    "photo": "1000doc1/a196.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "못을 박을 수 있는 망치입니다.", "translate": "Là búa dùng để đóng đinh." },
+      { "text": "계산을 할 수 있는 계산기입니다.", "translate": "Là máy tính bỏ túi dùng để tính toán." },
+      { "text": "구멍을 뚫을 수 있는 송곳입니다.", "translate": "Là dùi/sốc dùng để đục lỗ." },
+      { "text": "물건의 무게를 잴 수 있는 저울입니다.", "translate": "Là cân dùng để đo khối lượng." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 197,
+    "type": 0,
+    "photo": "1000doc1/a197.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "불을 끌 때 사용하는 소화기입니다.", "translate": "Là bình chữa cháy dùng để dập lửa." },
+      { "text": "청소를 할 때 사용하는 빗자루입니다.", "translate": "Là chổi dùng để quét dọn." },
+      { "text": "옷을 만들 때 사용하는 재봉틀입니다.", "translate": "Là máy may dùng để may quần áo." },
+      { "text": "물을 끓일 때 사용하는 주전자입니다.", "translate": "Là ấm dùng để đun nước." }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 198,
+    "type": 0,
+    "photo": "1000doc1/a198.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "물건의 무게를 잴 때 사용하는 저울입니다.", "translate": "Là cân dùng để đo khối lượng." },
+      { "text": "높은 곳에 올라갈 때 사용하는 사다리입니다.", "translate": "Là thang dùng để leo lên chỗ cao." },
+      { "text": "물이나 가스를 보내는 데 사용하는 호스입니다.", "translate": "Là ống/ vòi dùng để dẫn nước hoặc khí." },
+      { "text": "전선이나 철사를 자르는 데 사용하는 니퍼입니다.", "translate": "Là kìm cắt dùng để cắt dây điện hoặc dây thép." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 199,
+    "type": 0,
+    "photo": "1000doc1/a199.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "물건을 집을 때 사용하는 집게입니다.", "translate": "Là kẹp/tăng dùng để gắp đồ." },
+      { "text": "물을 뿌릴 때 사용하는 물뿌리개입니다.", "translate": "Là bình tưới nước." },
+      { "text": "물건의 무게를 잴 때 사용하는 저울입니다.", "translate": "Là cân dùng để đo khối lượng." },
+      { "text": "옷이나 가방 등을 만들 때 사용하는 재봉틀입니다.", "translate": "Là máy may dùng để may quần áo hoặc túi." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 200,
+    "type": 0,
+    "photo": "1000doc1/a200.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "학교나 직장 등에서 개인의 물건을 넣어 두는 사물함입니다.", "translate": "Là tủ đựng đồ cá nhân dùng ở trường hoặc nơi làm việc." },
+      { "text": "지하철역 등에서 임시로 물건을 맡아 보관하는 보관함입니다.", "translate": "Là hộp/ tủ gửi đồ tạm thời tại ga tàu/nhà ga." },
+      { "text": "물건을 만들거나 고칠 때 쓰는 도구를 넣어 두는 공구함입니다.", "translate": "Là hộp/ tủ đựng dụng cụ dùng khi chế tạo hoặc sửa chữa." },
+      { "text": "응급 시 필요한 약과 간단한 의료 도구를 넣어 두는 구급함입니다.", "translate": "Là hộp sơ cứu chứa thuốc và dụng cụ y tế cần thiết khi khẩn cấp." }
+    ],
+    "answer": 4
+  }
+]

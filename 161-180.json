@@ -1,0 +1,342 @@
+[
+  {
+    "id": 161,
+    "type": 0,
+    "photo": "1000doc1/a161.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "아주머니들이 물건을 팔고 있습니다.", "translate": "Các cô đang bán hàng." },
+      { "text": "경찰들이 교통정리를 하고 있습니다.", "translate": "Các cảnh sát đang điều tiết giao thông." },
+      { "text": "학생들이 횡단보도를 건너고 있습니다.", "translate": "Các học sinh đang băng qua đường." },
+      { "text": "아저씨들이 거리 청소를 하고 있습니다.", "translate": "Các chú đang quét dọn đường phố." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 162,
+    "type": 0,
+    "photo": "1000doc1/a162.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "삽과 곡괭이를 이용하여 땅을 파고 있습니다.", "translate": "Đang đào đất bằng xẻng và cuốc chim." },
+      { "text": "손수레를 이용하여 물건을 운반하고 있습니다.", "translate": "Đang dùng xe đẩy để chở hàng." },
+      { "text": "불도저를 이용하여 도로 공사를 하고 있습니다.", "translate": "Đang dùng xe ủi làm đường." },
+      { "text": "빗자루와 쓰레받기를 이용하여 청소하고 있습니다.", "translate": "Đang quét dọn bằng chổi và đồ hốt rác." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 163,
+    "type": 0,
+    "photo": "1000doc1/a163.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "약국에서 약사가 약을 짓고 있습니다.", "translate": "Dược sĩ đang pha thuốc trong nhà thuốc." },
+      { "text": "주유소에서 직원이 기름을 넣고 있습니다.", "translate": "Nhân viên đang bơm xăng tại trạm xăng." },
+      { "text": "시장에서 아주머니가 과일을 팔고 있습니다.", "translate": "Cô đang bán trái cây ở chợ." },
+      { "text": "버스 정류장에서 학생이 버스를 기다리고 있습니다.", "translate": "Học sinh đang đợi xe buýt ở trạm." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 164,
+    "type": 0,
+    "photo": "1000doc1/a164.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "운동장에서 축구를 하고 있습니다.", "translate": "Đang chơi bóng đá trên sân vận động." },
+      { "text": "우체국에서 소포를 포장하고 있습니다.", "translate": "Đang gói bưu kiện tại bưu điện." },
+      { "text": "건축 공사장에서 건물을 짓고 있습니다.", "translate": "Đang xây nhà ở công trường." },
+      { "text": "공장에서 전기 부품을 조립하고 있습니다.", "translate": "Đang lắp ráp linh kiện điện trong nhà máy." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 165,
+    "type": 0,
+    "photo": "1000doc1/a165.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "어린이들이 놀이터에서 놀고 있습니다.", "translate": "Trẻ em đang chơi ở sân chơi." },
+      { "text": "사람들이 고층 건물의 창문을 닦고 있습니다.", "translate": "Người ta đang lau cửa sổ tòa nhà cao tầng." },
+      { "text": "소방관들이 고층 건물의 불을 끄고 있습니다.", "translate": "Lính cứu hỏa đang dập lửa tòa nhà cao tầng." },
+      { "text": "소방관들이 다친 사람을 구해 내고 있습니다.", "translate": "Lính cứu hỏa đang cứu người bị thương." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 166,
+    "type": 0,
+    "photo": "1000doc1/a166.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "새 아파트를 짓고 있습니다.", "translate": "Đang xây căn hộ mới." },
+      { "text": "트럭으로 나무를 운반하고 있습니다.", "translate": "Đang chở gỗ bằng xe tải." },
+      { "text": "사다리로 이삿짐을 옮기고 있습니다.", "translate": "Đang chuyển đồ bằng thang nâng." },
+      { "text": "아파트 벽에 페인트를 칠하고 있습니다.", "translate": "Đang sơn tường căn hộ." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 167,
+    "type": 0,
+    "photo": "1000doc1/a167.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "남자가 기계를 수리하고 있습니다.", "translate": "Người đàn ông đang sửa máy." },
+      { "text": "남자가 이삿짐을 운반하고 있습니다.", "translate": "Người đàn ông đang khuân đồ chuyển nhà." },
+      { "text": "남자가 트럭에 가구를 싣고 있습니다.", "translate": "Người đàn ông đang chất đồ nội thất lên xe tải." },
+      { "text": "남자가 책상 앞에서 책을 읽고 있습니다.", "translate": "Người đàn ông đang đọc sách trước bàn làm việc." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 168,
+    "type": 0,
+    "photo": "1000doc1/a168.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "남자가 가구를 만들고 있습니다.", "translate": "Người đàn ông đang làm đồ gỗ." },
+      { "text": "남자가 한국말을 가르치고 있습니다.", "translate": "Người đàn ông đang dạy tiếng Hàn." },
+      { "text": "남자가 컴퓨터를 수리하고 있습니다.", "translate": "Người đàn ông đang sửa máy tính." },
+      { "text": "남자가 컴퓨터를 포장하고 있습니다.", "translate": "Người đàn ông đang đóng gói máy tính." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 169,
+    "type": 0,
+    "photo": "1000doc1/a169.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "구두를 신고 계단을 올라가고 있습니다.", "translate": "Đang đi giày và bước lên cầu thang." },
+      { "text": "물걸레를 사용하여 탁자를 닦고 있습니다.", "translate": "Đang lau bàn bằng khăn ướt." },
+      { "text": "걸레를 탈수기에 넣어서 물을 짜고 있습니다.", "translate": "Đang vắt khăn bằng máy vắt." },
+      { "text": "구두약을 발라서 구두를 깨끗이 닦고 있습니다.", "translate": "Đang đánh bóng giày bằng xi." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 170,
+    "type": 0,
+    "photo": "1000doc1/a170.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "옷을 세탁하는 세탁기입니다.", "translate": "Đây là máy giặt dùng để giặt quần áo." },
+      { "text": "계산할 때 쓰는 계산기입니다.", "translate": "Đây là máy tính dùng để tính toán." },
+      { "text": "여행할 때 타는 비행기입니다.", "translate": "Đây là máy bay dùng để đi du lịch." },
+      { "text": "물건을 운반하는 기중기입니다.", "translate": "Đây là cần cẩu dùng để vận chuyển vật nặng." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 171,
+    "type": 0,
+    "photo": "1000doc1/a171.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "땅을 팔 때 사용하는 굴삭기입니다.", "translate": "Đây là máy xúc dùng để đào đất." },
+      { "text": "불을 끌 때 사용하는 소방차입니다.", "translate": "Đây là xe cứu hỏa dùng để dập lửa." },
+      { "text": "높은 곳에 올라갈 때 쓰는 사다리입니다.", "translate": "Đây là thang dùng để trèo lên cao." },
+      { "text": "무거운 짐을 운반할 때 쓰는 지게차입니다.", "translate": "Đây là xe nâng dùng để chở hàng nặng." }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 172,
+    "type": 0,
+    "photo": "1000doc1/a172.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "짐을 실어 나르는 화물 열차입니다.", "translate": "Đây là tàu chở hàng hóa." },
+      { "text": "석유나 가솔린을 실어 나르는 배입니다.", "translate": "Đây là tàu chở xăng dầu." },
+      { "text": "무거운 물건을 실어 나르는 지게차입니다.", "translate": "Đây là xe nâng dùng để chở hàng nặng." },
+      { "text": "돌이나 모래를 운반하는 화물 트럭입니다.", "translate": "Đây là xe tải chở đá hoặc cát." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 173,
+    "type": 0,
+    "photo": "1000doc1/a173.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "종이를 자를 때 사용하는 칼입니다.", "translate": "Đây là dao dùng để cắt giấy." },
+      { "text": "나무를 자를 때 사용하는 톱입니다.", "translate": "Đây là cưa dùng để cắt gỗ." },
+      { "text": "쇠를 자를 때 사용하는 절단기입니다.", "translate": "Đây là máy cắt dùng để cắt sắt." },
+      { "text": "머리를 자를 때 사용하는 가위입니다.", "translate": "Đây là kéo dùng để cắt tóc." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 174,
+    "type": 0,
+    "photo": "1000doc1/a174.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "먼지나 쓰레기를 쓸어 내는 빗자루입니다.", "translate": "Đây là cây chổi dùng để quét bụi và rác." },
+      { "text": "전선이나 철사를 자를 때 쓰는 니퍼입니다.", "translate": "Đây là kìm cắt dùng để cắt dây điện hoặc dây thép." },
+      { "text": "못을 박거나 못을 뺄 때 쓰는 장도리입니다.", "translate": "Đây là búa dùng để đóng hoặc nhổ đinh." },
+      { "text": "나무나 종이에 구멍을 낼 때 쓰는 송곳입니다.", "translate": "Đây là dùi dùng để đục lỗ trên gỗ hoặc giấy." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 175,
+    "type": 0,
+    "photo": "1000doc1/a175.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "먼지나 쓰레기를 쓸어 내는 빗자루입니다.", "translate": "Đây là cây chổi dùng để quét bụi và rác." },
+      { "text": "전선이나 철사를 자를 때 쓰는 니퍼입니다.", "translate": "Đây là kìm cắt dùng để cắt dây điện hoặc dây thép." },
+      { "text": "못을 박거나 못을 뺄 때 쓰는 장도리입니다.", "translate": "Đây là búa dùng để đóng hoặc nhổ đinh." },
+      { "text": "나무나 종이에 구멍을 낼 때 쓰는 송곳입니다.", "translate": "Đây là dùi dùng để đục lỗ trên gỗ hoặc giấy." }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 176,
+    "type": 0,
+    "photo": "1000doc1/a176.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "먼지나 쓰레기를 쓸어 내는 빗자루입니다.", "translate": "Đây là cây chổi dùng để quét bụi và rác." },
+      { "text": "전선이나 철사를 자를 때 쓰는 니퍼입니다.", "translate": "Đây là kìm cắt dùng để cắt dây điện hoặc dây thép." },
+      { "text": "못을 박거나 못을 뺄 때 쓰는 장도리입니다.", "translate": "Đây là búa dùng để đóng hoặc nhổ đinh." },
+      { "text": "나무나 종이에 구멍을 낼 때 쓰는 송곳입니다.", "translate": "Đây là dùi dùng để đục lỗ trên gỗ hoặc giấy." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 177,
+    "type": 0,
+    "photo": "1000doc1/a177.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "먼지나 쓰레기를 쓸어 내는 빗자루입니다.", "translate": "Đây là cây chổi dùng để quét bụi và rác." },
+      { "text": "전선이나 철사를 자를 때 쓰는 니퍼입니다.", "translate": "Đây là kìm cắt dùng để cắt dây điện hoặc dây thép." },
+      { "text": "못을 박거나 못을 뺄 때 쓰는 장도리입니다.", "translate": "Đây là búa dùng để đóng hoặc nhổ đinh." },
+      { "text": "나무나 종이에 구멍을 낼 때 쓰는 송곳입니다.", "translate": "Đây là dùi dùng để đục lỗ trên gỗ hoặc giấy." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 178,
+    "type": 0,
+    "photo": "1000doc1/a178.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "밥이나 반찬을 담을 수 있는 그릇입니다.", "translate": "Đây là bát dùng để đựng cơm hoặc thức ăn." },
+      { "text": "작은 그릇들을 받쳐 들 때 쓰는 쟁반입니다.", "translate": "Đây là khay dùng để bưng đĩa nhỏ." },
+      { "text": "먼지나 쓰레기를 쓸어 담는 쓰레받기입니다.", "translate": "Đây là đồ hốt rác dùng để hốt bụi và rác." },
+      { "text": "무거운 물건을 운반할 때 쓰는 손수레입니다.", "translate": "Đây là xe đẩy tay dùng để chở vật nặng." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 179,
+    "type": 0,
+    "photo": "1000doc1/a179.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "먼지를 떨어 내는 먼지떨이입니다.", "translate": "Đây là cây phủi bụi." },
+      { "text": "쓰레기를 쓸어 담는 쓰레받기입니다.", "translate": "Đây là đồ hốt rác." },
+      { "text": "연필 등을 꽂아 두는 연필꽂이입니다.", "translate": "Đây là ống cắm bút." },
+      { "text": "구두를 신을 때 사용하는 구둣주걱입니다.", "translate": "Đây là thìa mang giày (dụng cụ giúp mang giày dễ hơn)." }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 180,
+    "type": 0,
+    "photo": "1000doc1/a180.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn câu đúng."
+    },
+    "options": [
+      { "text": "땅을 파고 흙을 뜨는 데 사용하는 삽입니다.", "translate": "Đây là cái xẻng dùng để đào đất." },
+      { "text": "나무나 금속에 구멍을 뚫는 전기드릴입니다.", "translate": "Đây là máy khoan điện dùng để khoan gỗ hoặc kim loại." },
+      { "text": "바지나 셔츠 등을 다릴 수 있는 다리미입니다.", "translate": "Đây là bàn ủi dùng để ủi quần áo." },
+      { "text": "사무실이나 공장을 청소할 때 쓰는 청소기입니다.", "translate": "Đây là máy hút bụi dùng để dọn văn phòng hoặc nhà máy." }
+    ],
+    "answer": 2
+  }
+]

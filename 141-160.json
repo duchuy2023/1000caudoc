@@ -1,0 +1,342 @@
+[
+  {
+    "id": 141,
+    "type": 0,
+    "photo": "1000doc1/a141.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "이 집은 거실이 넓습니다.", "translate": "Ngôi nhà này có phòng khách rộng." },
+      { "text": "이 집은 화장실이 큽니다.", "translate": "Ngôi nhà này có nhà vệ sinh lớn." },
+      { "text": "이 집에는 방이 적습니다.", "translate": "Ngôi nhà này có ít phòng." },
+      { "text": "이 집에는 부엌이 없습니다.", "translate": "Ngôi nhà này không có bếp." }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 142,
+    "type": 0,
+    "photo": "1000doc1/a142.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "지하철 안에 사람이 많습니다.", "translate": "Trong tàu điện ngầm có nhiều người." },
+      { "text": "차가 밀려서 교통이 복잡합니다.", "translate": "Xe bị tắc nên giao thông phức tạp." },
+      { "text": "자전거를 타는 사람이 많습니다.", "translate": "Có nhiều người đi xe đạp." },
+      { "text": "사람들이 마라톤을 하고 있습니다.", "translate": "Mọi người đang chạy marathon." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 143,
+    "type": 0,
+    "photo": "1000doc1/a143.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "배가 고픕니다.", "translate": "Tôi đói bụng." },
+      { "text": "기분이 좋습니다.", "translate": "Tâm trạng tốt." },
+      { "text": "머리가 아픕니다.", "translate": "Đau đầu." },
+      { "text": "나이가 적습니다.", "translate": "Còn trẻ tuổi." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 144,
+    "type": 0,
+    "photo": "1000doc1/a144.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "사람들이 차를 마시고 있습니다.", "translate": "Mọi người đang uống trà." },
+      { "text": "사람들이 노래를 부르고 있습니다.", "translate": "Mọi người đang hát." },
+      { "text": "사람들이 가방을 고르고 있습니다.", "translate": "Mọi người đang chọn túi xách." },
+      { "text": "사람들이 경치를 구경하고 있습니다.", "translate": "Mọi người đang ngắm phong cảnh." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 145,
+    "type": 0,
+    "photo": "1000doc1/a145.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "목을 돌리는 운동을 하고 있습니다.", "translate": "Đang tập xoay cổ." },
+      { "text": "다리를 올리는 운동을 하고 있습니다.", "translate": "Đang tập nâng chân." },
+      { "text": "허리를 구부리는 운동을 하고 있습니다.", "translate": "Đang tập cúi người." },
+      { "text": "두 팔을 높이 드는 운동을 하고 있습니다.", "translate": "Đang tập giơ cao hai tay." }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 146,
+    "type": 0,
+    "photo": "1000doc1/a146.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "서서 체조를 하고 있습니다.", "translate": "Đang tập thể dục đứng." },
+      { "text": "누워서 책을 읽고 있습니다.", "translate": "Đang nằm đọc sách." },
+      { "text": "앉아서 과자를 먹고 있습니다.", "translate": "Đang ngồi ăn bánh." },
+      { "text": "엎드려서 편지를 쓰고 있습니다.", "translate": "Đang nằm sấp viết thư." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 147,
+    "type": 0,
+    "photo": "1000doc1/a147.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "눈이 와서 춥습니다.", "translate": "Tuyết rơi nên lạnh." },
+      { "text": "비가 와서 쌀쌀합니다.", "translate": "Trời mưa nên se lạnh." },
+      { "text": "바람이 불어서 시원합니다.", "translate": "Gió thổi nên mát mẻ." },
+      { "text": "구름이 많아서 날이 흐립니다.", "translate": "Nhiều mây nên trời âm u." }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 148,
+    "type": 0,
+    "photo": "1000doc1/a148.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "사람들이 공부를 하고 있습니다.", "translate": "Mọi người đang học." },
+      { "text": "사람들이 수영을 하고 있습니다.", "translate": "Mọi người đang bơi." },
+      { "text": "사람들이 물을 마시고 있습니다.", "translate": "Mọi người đang uống nước." },
+      { "text": "사람들이 노래를 부르고 있습니다.", "translate": "Mọi người đang hát." }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 149,
+    "type": 0,
+    "photo": "1000doc1/a149.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "사람들이 집을 고치고 있습니다.", "translate": "Mọi người đang sửa nhà." },
+      { "text": "사람들이 농사를 짓고 있습니다.", "translate": "Mọi người đang làm nông." },
+      { "text": "사람들이 낚시를 하고 있습니다.", "translate": "Mọi người đang câu cá." },
+      { "text": "사람들이 가구를 만들고 있습니다.", "translate": "Mọi người đang làm đồ gỗ." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 150,
+    "type": 0,
+    "photo": "1000doc1/a150.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "장갑을 고르고 있습니다.", "translate": "Đang chọn găng tay." },
+      { "text": "모자를 써 보고 있습니다.", "translate": "Đang thử đội mũ." },
+      { "text": "외투를 구경하고 있습니다.", "translate": "Đang xem áo khoác." },
+      { "text": "신발을 신어 보고 있습니다.", "translate": "Đang thử giày." }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 151,
+    "type": 0,
+    "photo": "1000doc1/a151.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "머리를 묶고 운동을 합니다.", "translate": "Buộc tóc rồi tập thể dục." },
+      { "text": "머리를 풀고 샴푸를 합니다.", "translate": "Xõa tóc và gội đầu." },
+      { "text": "신발을 신고 집 밖으로 나갑니다.", "translate": "Đi giày và ra khỏi nhà." },
+      { "text": "신발을 벗고 집 안으로 들어갑니다.", "translate": "Cởi giày và vào trong nhà." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 152,
+    "type": 0,
+    "photo": "1000doc1/a152.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "간호사가 아이에게 주사를 놓고 있습니다.", "translate": "Y tá đang tiêm cho em bé." },
+      { "text": "간호사가 아이에게 약을 먹이고 있습니다.", "translate": "Y tá đang cho em bé uống thuốc." },
+      { "text": "간호사가 아이의 손을 씻어 주고 있습니다.", "translate": "Y tá đang rửa tay cho em bé." },
+      { "text": "간호사가 우는 아이를 안아 주고 있습니다.", "translate": "Y tá đang ôm em bé đang khóc." }
+    ],
+    "answer": 1
+  },
+  {
+    "id": 153,
+    "type": 0,
+    "photo": "1000doc1/a153.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "열쇠로 문을 열고 있습니다.", "translate": "Đang mở cửa bằng chìa khóa." },
+      { "text": "연필로 글씨를 쓰고 있습니다.", "translate": "Đang viết chữ bằng bút chì." },
+      { "text": "가위로 종이를 자르고 있습니다.", "translate": "Đang cắt giấy bằng kéo." },
+      { "text": "휴대전화로 통화를 하고 있습니다.", "translate": "Đang nói chuyện điện thoại." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 154,
+    "type": 0,
+    "photo": "1000doc1/a154.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "아저씨들이 나무를 심고 있습니다.", "translate": "Các chú đang trồng cây." },
+      { "text": "아저씨들이 눈을 치우고 있습니다.", "translate": "Các chú đang dọn tuyết." },
+      { "text": "아저씨들이 달리기를 하고 있습니다.", "translate": "Các chú đang chạy bộ." },
+      { "text": "아저씨들이 쓰레기를 버리고 있습니다.", "translate": "Các chú đang vứt rác." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 155,
+    "type": 0,
+    "photo": "1000doc1/a155.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "아주머니가 이를 닦고 있습니다.", "translate": "Bà đang đánh răng." },
+      { "text": "아주머니가 채소를 씻고 있습니다.", "translate": "Bà đang rửa rau." },
+      { "text": "아주머니가 빨래를 하고 있습니다.", "translate": "Bà đang giặt đồ." },
+      { "text": "아주머니가 설거지를 하고 있습니다.", "translate": "Bà đang rửa bát." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 156,
+    "type": 0,
+    "photo": "1000doc1/a156.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "상자를 쌓고 있습니다.", "translate": "Đang xếp thùng lên nhau." },
+      { "text": "상자를 접고 있습니다.", "translate": "Đang gấp thùng giấy." },
+      { "text": "상자를 옮기고 있습니다.", "translate": "Đang chuyển thùng đi." },
+      { "text": "상자를 포장하고 있습니다.", "translate": "Đang đóng gói thùng." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 157,
+    "type": 0,
+    "photo": "1000doc1/a157.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "책이 제일 쌉니다.", "translate": "Sách là rẻ nhất." },
+      { "text": "우산이 제일 비쌉니다.", "translate": "Cái ô là đắt nhất." },
+      { "text": "가방이 제일 비쌉니다.", "translate": "Cặp là đắt nhất." },
+      { "text": "책이 우산보다 쌉니다.", "translate": "Sách rẻ hơn ô." }
+    ],
+    "answer": 3
+  },
+  {
+    "id": 158,
+    "type": 0,
+    "photo": "1000doc1/a158.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "여자가 불을 켜고 있습니다.", "translate": "Người phụ nữ đang bật đèn." },
+      { "text": "여자가 물을 붓고 있습니다.", "translate": "Người phụ nữ đang đổ nước." },
+      { "text": "여자가 그림을 걸고 있습니다.", "translate": "Người phụ nữ đang treo tranh." },
+      { "text": "여자가 창문을 닫고 있습니다.", "translate": "Người phụ nữ đang đóng cửa sổ." }
+    ],
+    "answer": 4
+  },
+  {
+    "id": 159,
+    "type": 0,
+    "photo": "1000doc1/a159.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "린 씨가 나이가 가장 적습니다.", "translate": "Bạn Lin là người ít tuổi nhất." },
+      { "text": "리아 씨가 나이가 가장 적습니다.", "translate": "Bạn Ria là người ít tuổi nhất." },
+      { "text": "수지 씨가 나이가 가장 많습니다.", "translate": "Bạn Suji là người nhiều tuổi nhất." },
+      { "text": "리아 씨가 린 씨보다 나이가 많습니다.", "translate": "Ria lớn tuổi hơn Lin." }
+    ],
+    "answer": 2
+  },
+  {
+    "id": 160,
+    "type": 0,
+    "photo": "1000doc1/a160.jpg",
+    "audio": null,
+    "question": {
+      "text": "그림을 보고 알맞은 말을 고르십시오.",
+      "translate": "Nhìn hình và chọn từ đúng."
+    },
+    "options": [
+      { "text": "자동차를 고치고 있습니다.", "translate": "Đang sửa ô tô." },
+      { "text": "자동차를 운전하고 있습니다.", "translate": "Đang lái ô tô." },
+      { "text": "비눗물로 자동차를 닦고 있습니다.", "translate": "Đang rửa ô tô bằng xà phòng." },
+      { "text": "자동차 타이어를 바꾸고 있습니다.", "translate": "Đang thay lốp ô tô." }
+    ],
+    "answer": 3
+  }
+]
